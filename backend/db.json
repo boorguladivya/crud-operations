@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "0d70",
+      "username": "Hanvika",
+      "phone": "+916304690402",
+      "email": "boorguladivya0906@gmail.com",
+      "pw": "12355"
+    },
+    {
+      "id": "33d1",
+      "username": "Anika",
+      "phone": "+916304690402",
+      "email": "boorguladivya0906@gmail.com",
+      "pw": "12355",
+      "password": "123557"
+    },
+    {
+      "id": "fdb4",
+      "username": "Anusha",
+      "phone": "8106956650",
+      "email": "navya@gmail.com",
+      "pw": "12345"
+    },
+    {
+      "id": "8a60",
+      "username": "Navya",
+      "phone": "8106956650",
+      "email": "navya@gmail.com",
+      "pw": "12345"
+    },
+    {
+      "id": "f7fb",
+      "username": "Meghana",
+      "phone": "12345667890",
+      "email": "meghana@gmail.com",
+      "pw": "12345788"
+    },
+    {
+      "id": "1aa3",
+      "username": "Hellooooo",
+      "phone": "123456788900",
+      "email": "abcd@gmail.com",
+      "pw": "345678",
+      "password": "3456788"
+    }
+  ]
+}
